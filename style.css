@@ -1,0 +1,358 @@
+.Div1 h1{
+    color: rgba(20, 168, 0, 1);
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.Div1{
+    display: flex;
+}
+.Div1 h3{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.MainDiv1{
+    display: flex;
+}
+.Div2{
+    margin: 10px;
+    margin-left: 270px;
+}
+.Div2 select{
+    width: 10px;
+    height: 30px;
+    margin-right: 45px;
+}
+.Div2 input{
+    width: 250px;
+    margin-top: -10px;
+    height: 25px;
+    border: 2px solid gray;
+    border-radius: 30px;
+    text-align: center;
+    padding-left: -10px;
+    font-size: 20px
+}
+.Div2 a{
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Div2 button{
+    color: white;
+    border: 20px;
+    border-radius: 70px;
+    background-color: rgba(20, 168, 0, 1);
+    width: 120px;
+    height:50px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Div3{
+    display: flex;
+    list-style: none;
+}
+.Div3 li{
+    margin-left: 20px;
+}
+
+
+.Div4{
+    margin-left: 100px;
+}
+.Div4 h1{
+    color: rgba(20, 168, 0, 1);
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Div4 p{
+    margin-top: -55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.Div4 button{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: rgba(20, 168, 0, 1);
+    border: 1px solid rgba(20, 168, 0, 1);
+    border-radius: 50px;
+}
+.Div4 img{
+    width: 100%;
+    height: 500px;
+}
+.MainDiv2{
+    display: flex;
+}
+.img1Div5{
+    width: 20px;
+    height: 20px;
+}
+.img1Div5 img{
+    width: 200px;
+    height: 40px;
+}
+.img1Div5{
+    display: flex;
+    margin-left: 4px;
+}
+.Div5 h1{
+    font-size: 40px;
+}
+.Div5 h4{
+    font-size: 20px;
+}
+.Div5 a{ 
+    color:rgba(20, 168, 0, 1);
+}
+.Div5{
+    margin-left: 100px;
+}
+
+
+.colo{
+    display: flex;
+    list-style: none;
+    gap: 80px;
+
+ }
+
+ .li1{
+    border: 1px solid black;
+    background-color: rgba(81, 255, 0, 0.171);
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+
+    
+ }
+
+ .li2{
+
+    border: 1px solid black;
+    background-color: rgba(81, 255, 0, 0.171);
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+ }
+
+ .li3{
+
+    border: 1px solid black;
+    background-color: rgba(81, 255, 0, 0.171);
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+ }
+
+ .li4{
+    border: 1px solid black;
+    background-color: rgba(81, 255, 0, 0.171);
+    width: 25%;
+    height: 100px;
+    text-align: center !important;
+    border-radius: 10px;
+    text-align: center;
+    bottom: auto;
+ }
+ .Div6{
+    background-color: green;
+    width: 50%;
+ }
+ .Div6 span{
+    color:  rgba(145, 320, 179, 1);
+    font-size: 50px;
+ }
+ .MainDiv5{
+    display: flex;
+    width: 80%;
+    height: 800px;
+    margin-left: 200px;
+ }
+ .Div6 p{
+    color: white;
+    font-size: 25px;
+ }
+ .Div6 img{
+    width: 100%;
+    height: 800px;
+ }
+ .div6ul{
+    font-size: 20px;
+ }
+ .div6ul li{
+    list-style: none;
+    padding-left: 5px;
+    padding: 3px;
+ }
+ .Div6Btn{
+    width: 200px;
+    font-size: 20px;
+    color: green;
+    height: 80px; 
+    border-radius: 50px;  
+}
+.Div7 h3{
+    font-size: 37px;
+}
+.Div7 h4{
+    font-size: 27px;
+}
+.Div7 p{
+    font-size: 18px;
+    color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Div7 h4 , h3{
+    color: rgb(16, 49, 1);
+}
+.Div7.h4,p{    
+    margin-top: 25px;
+}
+.Div7{
+    margin-left: 70px;
+    background-color: rgba(128, 128, 128, 0.169);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.Div8 img{
+    width: 100%;
+    height: 800px;
+    border: 3px solid rgba(128, 128, 128, 0.169);
+    background-color: rgba(128, 128, 128, 0.169);
+}
+.MainDiv6{
+    margin-top: 50px;
+    display: flex;
+}
+.Div9{
+    background-color: rgb(20, 168, 0 ,1);
+    width: 50%;
+    height: 800px;
+    border: 3px solid rgb(20, 168, 0 ,1);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 30px;
+}
+.Div9 h2{
+    margin-top: 250px;
+    color: white;
+    font-size: 40px;
+    margin-left: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Div9 H4{
+    font-size: 20px;
+    margin-left: 35px;
+    color: white;
+}
+.DivH4 span{
+    font-size: 35px;
+}
+
+    /* completed */
+
+.Div10img{
+    width: 86%;
+    height: 550px;
+    border: 5px solid rgba(255, 255, 255, 0);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-left: 70px;
+}
+.Div11{
+    background-color: rgba(0, 117, 163, 0.72);
+    width: 50%;
+    height: 550px;
+    color: white;
+    margin-left: -5px;
+    margin-top: 5px;
+}
+.Div11H1{
+    font-size: 50px;
+    color: white;
+}
+.Div11P{
+    font-size: 23px;
+    color: white;
+}
+.MainDiv7{
+    display: flex;
+}
+.Div11Flex{
+    display: flex;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Div11Div1{
+    margin-left: 25px;
+    margin-top: -20px;
+}
+.Div11Div2{
+    margin-left: 25px;
+    margin-top: -20px;
+}
+.Div11Div3{
+    margin-left: 25px;
+    margin-top: -20px;
+}
+
+                    /* Done */
+
+.displayflex{
+    display: flex;
+    width: 100%;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.MainDiv8{ 
+    border: 2px rgb(19 84 78) solid;
+    border-radius: 20px;
+    gap: 100px;
+    background-color: rgb(19 84 78);
+    height: 550px;
+    width: 55%;
+    margin: 20px;
+}
+.MainDiv9{ 
+    border: 2px rgb(188 81 27) solid;
+    border-radius: 20px;
+    background-color: rgb(188 81 27);
+    height:550px;
+    width: 55%;
+    margin: 20px;
+    color: white;
+}
+.MainDiv8img1{
+    width: 50%;
+    margin: 20px;
+    color: white;
+}
+.MainDiv8h21{
+    font-size: 25px;
+    color: white;
+}
+.MainDiv8p1{
+    font-size: 20px;
+    color: white;
+}
+.MainDiv8Div1{
+    font-size: 15px;
+    width: 50%;
+    color: white;
+}
+.MainDiv8Div2{    
+    font-size: 15px;
+    width: 50%;
+    color: white;
+    display: flex;
+}
+.Disp1{
+    display: flex;
+}
